@@ -1,4 +1,4 @@
 #Ignore Dataset Directory
 /Dataset
 #Ignore ipynb checkpoints
-.ipynb_checkpoints
+/.ipynb_checkpoints
