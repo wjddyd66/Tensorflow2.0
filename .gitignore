@@ -2,3 +2,7 @@
 /Dataset
 #Ignore ipynb checkpoints
 /.ipynb_checkpoints
+#Ignore Model
+/Model
+#Ignore Trash
+/Trash
