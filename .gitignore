@@ -6,3 +6,5 @@
 /Model
 #Ignore Trash
 /Trash
+#Ignore Checkpoints
+/checkpoints
