@@ -1,0 +1,10 @@
+#Ignore Dataset Directory
+/data
+#Ignore Outputs
+/outputs
+#Ignore checkpoints
+/checkpoints
+#Ignore logs
+/logs
+#Ignore pychache
+/__pycache__
